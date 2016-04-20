@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraseptemprov00gortgoog_0007.png"; bbox 0 0 2676 4842; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 47 67 2598 653">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 47 67 2598 653">
+     <span class='ocr_line' id='line_1_1' title="bbox 47 67 2598 653; baseline 0 -329"><span class='ocrx_word' id='word_1_1' title='bbox 47 67 1486 653; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2126 76 2598 324; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 46 1490 2431 1890">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 46 1490 2431 1890">
+     <span class='ocr_line' id='line_1_2' title="bbox 46 1490 2431 1890; baseline 0.009 -85"><span class='ocrx_word' id='word_1_3' title='bbox 46 1490 75 1889; x_wconf 62' lang='grc' dir='ltr'><em>ξ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 138 1611 445 1890; x_wconf 65' lang='lat' dir='ltr'><strong>VH</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 705 1570 2431 1827; x_wconf 79' lang='lat' dir='ltr'>PROVINCIARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 44 2137 2307 2345">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 44 2137 2307 2345">
+     <span class='ocr_line' id='line_1_3' title="bbox 44 2137 2307 2345; baseline -0.002 -66"><span class='ocrx_word' id='word_1_6' title='bbox 44 2140 197 2345; x_wconf 20' lang='lat'><strong>122--</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 256 2137 989 2272; x_wconf 78' lang='lat' dir='ltr'><strong>BELGII</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1090 2138 2307 2333; x_wconf 76' lang='lat' dir='ltr'>FOEDERATI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 402 2581 2166 2720">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 402 2581 2166 2720">
+     <span class='ocr_line' id='line_1_4' title="bbox 402 2581 2166 2720; baseline -0.003 -19"><span class='ocrx_word' id='word_1_9' title='bbox 402 2581 2166 2720; x_wconf 81' lang='lat' dir='ltr'><strong>INDIGE·NA.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
